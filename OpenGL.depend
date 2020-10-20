@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1532174899 source:f:\level-4 term-2\cse 410\assignment-4\opengl\opengl_codeblocks\main.cpp
+	<bits/stdc++.h>
+	<cstdlib>
+	<cmath>
+	"bitmap_image.hpp"
+	<windows.h>
+	<glut.h>
+	"File2.hpp"
+	<vector>
+
+1526315054 f:\level-4 term-2\cse 410\assignment-4\opengl\opengl_codeblocks\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1392007564 f:\level-4 term-2\cse 410\assignment-4\opengl\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1532174621 f:\level-4 term-2\cse 410\assignment-4\opengl\opengl_codeblocks\file2.hpp
+	<bits/stdc++.h>
+
+1536098737 source:f:\level-4 term-2\cse 410\assignment-4\opengl\opengl_codeblocks\1305087.cpp
+	<bits/stdc++.h>
+	<cstdlib>
+	<cmath>
+	"bitmap_image.hpp"
+	<windows.h>
+	<glut.h>
+	"1305087.hpp"
+	<vector>
+
+1536098802 f:\level-4 term-2\cse 410\assignment-4\opengl\opengl_codeblocks\1305087.hpp
+	<bits/stdc++.h>
+
